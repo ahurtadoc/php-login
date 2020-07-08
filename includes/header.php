@@ -10,12 +10,13 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
           integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk"
           crossorigin="anonymous">
-
+<!--    Icons-->
+    <script src="https://kit.fontawesome.com/e18dffab37.js" crossorigin="anonymous"></script>
 </head>
 <body>
 
 <nav class="navbar navbar-dark bg-dark ">
     <div class="container">
-        <a href="/" class="navbar-brand">PHP MySQL CRUD</a>
+        <a href="/" class="navbar-brand">PHP MySQL Task App</a>
     </div>
 </nav>
